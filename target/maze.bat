@@ -1,0 +1,1 @@
+start jlink-image\bin\javaw -jar modules\maze-1.0-SNAPSHOT.jar
